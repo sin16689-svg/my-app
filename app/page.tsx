@@ -9,7 +9,7 @@ export default function Home() {
         <h1 className="text-xl font-bold">Persona IF</h1>
 
         <div className="flex gap-6 text-sm">
-          <span className="cursor-pointer hover:underline">홈</span>
+          <span className="cursor-pointer hover:underline">홈!</span>
           <span className="cursor-pointer hover:underline">공지 사항</span>
           <span className="cursor-pointer hover:underline">게시판</span>
         </div>
