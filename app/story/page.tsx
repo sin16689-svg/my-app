@@ -16,24 +16,6 @@ export default function Home() {
             <p className="text-sm">운수 좋은 날</p>
           </div>
 
-          {/* 카드 2 */}
-          <div className="bg-white p-4">
-            <img src="/OIP.webp" className="w-full h-40 object-cover mb-2"/>
-            <p className="text-sm">소설의 시작</p>
-          </div>
-
-          {/* 카드 3 */}
-          <div className="bg-white p-4">
-            <img src="/OIP.webp" className="w-full h-40 object-cover mb-2"/>
-            <p className="text-sm">물과 바다</p>
-          </div>
-
-          {/* 카드 4 */}
-          <div className="bg-white p-4">
-            <img src="/OIP.webp" className="w-full h-40 object-cover mb-2"/>
-            <p className="text-sm">또 다른 이야기</p>
-          </div>
-
         </div>
 
         {/* 오른쪽 큰 영역 */}
